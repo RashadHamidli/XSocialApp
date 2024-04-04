@@ -3,9 +3,7 @@ package org.social.entities;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.*;
 import lombok.Data;
-import org.hibernate.validator.internal.util.stereotypes.Lazy;
 
-import java.lang.classfile.Label;
 import java.time.LocalDate;
 import java.util.List;
 
